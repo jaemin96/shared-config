@@ -1,5 +1,11 @@
 # @jaemdev/prettier-config
 
+## 1.0.3
+
+### Patch Changes
+
+- dc1bbd9: update printwidth value 100 -> 105
+
 ## 1.0.2
 
 ### Patch Changes
