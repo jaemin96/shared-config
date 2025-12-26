@@ -6,6 +6,11 @@
   "files": [
     "*.json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaemin96/shared-config.git",
+    "directory": "packages/tsconfig"
+  },
   "exports": {
     "./react": "./react.json",
     "./next": "./next.json",
