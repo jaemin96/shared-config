@@ -1,0 +1,17 @@
+{
+  "name": "@jd/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript configuration",
+  "license": "MIT",
+  "files": [
+    "*.json"
+  ],
+  "exports": {
+    "./react": "./react.json",
+    "./next": "./next.json",
+    "./base": "./base.json"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
