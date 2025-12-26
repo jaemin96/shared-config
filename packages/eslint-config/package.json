@@ -10,7 +10,8 @@
     "*.d.ts"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "scripts": {
     "lint": "eslint ."

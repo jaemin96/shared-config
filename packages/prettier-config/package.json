@@ -8,7 +8,8 @@
     "index.cjs"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "peerDependencies": {
     "prettier": "^3.0.0"
