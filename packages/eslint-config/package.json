@@ -1,5 +1,5 @@
 {
-  "name": "@jd/eslint-config",
+  "name": "@jaemdev/eslint-config",
   "version": "1.0.0",
   "description": "Shared ESLint configuration",
   "license": "MIT",
