@@ -9,6 +9,7 @@
   "exports": {
     "./react": "./react.json",
     "./next": "./next.json",
+    "./nest": "./nest.json",
     "./base": "./base.json"
   },
   "publishConfig": {
